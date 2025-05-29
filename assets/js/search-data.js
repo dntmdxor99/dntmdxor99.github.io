@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-cwq-continuous-relaxation-for-weight-only-quantization-algorithm-of-large-language-models",
         
-          title: "",
+          title: "CWQ:Continuous Relaxation for Weight-only Quantization Algorithm of Large Language Models",
         
-        description: "",
+        description: "Continuous Relaxation for Weight-only Quantization Algorithm of Large Language Models",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-05-29-cwq/";
+            window.location.href = "/blog/2025/cwq/";
           
         },
       },{id: "post-a-post-with-plotly-js",
